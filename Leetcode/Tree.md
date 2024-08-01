@@ -9,11 +9,12 @@
 ![Example 1](./images/te1.png)
 
 Input: 
+
             root = [10,4,6]
 
 Output: 
 
-      true
+            true
 
 Explanation: 
 
@@ -24,11 +25,12 @@ Explanation:
 ![Example 2](./images/te2.png)
 
 Input: 
+
             root = [5,3,1]
 
 Output: 
 
-      false
+            false
 
 Explanation: 
 
