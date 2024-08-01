@@ -12,7 +12,7 @@ and the answer must be a reference to a node in the cloned tree.
 
         Example 1
   
-![Example 1](/images/e1.png)
+![Example 1](./images/e1.png)
 
 
   Input: tree = [7,4,3,null,null,6,19], target = 3
@@ -22,7 +22,7 @@ and the answer must be a reference to a node in the cloned tree.
 
         Example 2
 
-![Example 2](/images/e2.png)
+![Example 2](./images/e2.png)
 
   Input: tree = [7], target =  7
   Output: 7
@@ -30,7 +30,7 @@ and the answer must be a reference to a node in the cloned tree.
 
         Example 3
 
-![Example 3](/images/e3.png)
+![Example 3](./images/e3.png)
 
   Input: tree = [8,null,6,null,5,null,4,null,3,null,2,null,1], target = 4
   Output: 4
