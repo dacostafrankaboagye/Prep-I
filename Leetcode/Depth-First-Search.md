@@ -10,7 +10,7 @@ Return a reference to the same node in the cloned tree.
 
 and the answer must be a reference to a node in the cloned tree.
 
-    Example 1
+        Example 1
   
 ![Example 1](e1.png)
 
@@ -20,8 +20,7 @@ and the answer must be a reference to a node in the cloned tree.
   Explanation: In all examples the original and cloned trees are shown. 
          The target node is a green node from the original tree. The answer is the yellow node from the cloned tree.
 
-
-  Example 2
+        Example 2
 
 ![Example 2](e2.png)
 
@@ -29,7 +28,7 @@ and the answer must be a reference to a node in the cloned tree.
   Output: 7
 
 
-  Example
+        Example 3
 
 ![Example 3](e3.png)
 
@@ -37,14 +36,14 @@ and the answer must be a reference to a node in the cloned tree.
   Output: 4
 
 
-Constraints:
+        Constraints:
 
 The number of nodes in the tree is in the range [1, 104].
 The values of the nodes of the tree are unique.
 target node is a node from the original tree and is not null.
  
 
-Follow up: Could you solve the problem if repeated values on the tree are allowed?
+        Follow up: Could you solve the problem if repeated values on the tree are allowed?
 
 ```java
 /**
